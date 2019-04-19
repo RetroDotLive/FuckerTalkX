@@ -3,3 +3,8 @@ It's a play on a catapult inside joke, smashed together with Appletalk. It's als
 
 What can I do with it?
 Have your own functioning server for the Xband Modem to play around with!
+
+Troubleshooting :
+Q : It crashes on open!
+A : You don't have any serial devices / modems attached
+
